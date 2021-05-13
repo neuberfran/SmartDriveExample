@@ -1,0 +1,10 @@
+[2019-09-13 15:23:42.376] [renderer1] [error] Tree element not found: [object Object]: Error: Tree element not found: [object Object]
+    at s.getElementLocation (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:91:674)
+    at s.isCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:91:14)
+    at j.isCollapsed (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:940:572)
+    at B.revealMarkersForCurrentActiveEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5301:237)
+    at B.autoReveal (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5301:94)
+    at B.onActiveEditorChanged (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5298:531)
+    at B._register.e (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:5297:572)
+    at d.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:75:436)
+    at setTimeout (file:///usr/share/code/resources/app/out/vs/workbench/workbench.main.js:71:973)

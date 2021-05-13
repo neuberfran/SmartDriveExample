@@ -1,0 +1,32 @@
+[2019-08-19 19:34:25.191] [exthost] [info] extension host started
+[2019-08-19 19:34:25.242] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2019-08-19 19:34:25.242] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/ms-vscode.cpptools-0.24.1/dist/main
+[2019-08-19 19:34:25.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-08-19 19:34:25.398] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-08-19 19:34:25.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-08-19 19:34:25.401] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-08-19 19:34:25.415] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-08-19 19:34:25.415] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-08-19 19:34:25.507] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-08-19 19:34:25.507] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-08-19 19:34:25.543] [exthost] [info] eager extensions activated
+[2019-08-19 19:34:25.561] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide {"startup":true,"activationEvent":"*"}
+[2019-08-19 19:34:25.561] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/platformio.platformio-ide-1.8.2/dist/extension
+[2019-08-19 19:34:25.925] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino {"startup":true,"activationEvent":"*"}
+[2019-08-19 19:34:25.925] [exthost] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vsciot-vscode.vscode-arduino-0.2.27/out/src/extension
+[2019-08-19 19:34:26.238] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-08-19 19:34:26.238] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-08-19 19:34:26.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-08-19 19:34:26.249] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-08-19 19:34:26.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-08-19 19:34:26.306] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-08-19 19:34:26.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onLanguage:json"}
+[2019-08-19 19:34:26.384] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/npm/dist/main
+[2019-08-19 19:34:54.313] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-08-19 19:34:54.313] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/grunt/dist/main
+[2019-08-19 19:34:54.318] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-08-19 19:34:54.318] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/gulp/dist/main
+[2019-08-19 19:34:54.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-08-19 19:34:54.322] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/jake/dist/main
+[2019-08-19 19:34:54.325] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-08-19 19:34:54.325] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension

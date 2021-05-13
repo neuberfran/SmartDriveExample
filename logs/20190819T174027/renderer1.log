@@ -1,0 +1,1 @@
+[2019-08-19 17:41:21.974] [renderer1] [warning] UNRESPONSIVE extension host, 'platformio.platformio-ide' took 100% of 5574.234ms, saved PROFILE here: '/tmp/exthost-8990fa.cpuprofile' [{"id":"gc","total":366,"percentage":0},{"id":"platformio.platformio-ide","total":5570039,"percentage":100}]

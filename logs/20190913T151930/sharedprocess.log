@@ -1,0 +1,30 @@
+[2019-09-13 15:19:33.848] [sharedprocess] [info] main {"machineId":"eb9fe41af3504e5e2a2daa45cde570a02408e72863211097f5ffaa197d78d0c3"}
+[2019-09-13 15:19:34.135] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:19:35.060] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:19:35.085] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:19:35.099] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:19:35.106] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:19:35.108] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /root/.vscode/extensions/ms-vscode.cpptools-0.24.1
+[2019-09-13 15:19:35.208] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:19:35.209] [sharedprocess] [info] Deleted from disk platformio.platformio-ide /root/.vscode/extensions/platformio.platformio-ide-1.8.2
+[2019-09-13 15:19:35.285] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:19:35.348] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:20:13.854] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-13 15:24:35.366] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:25:59.770] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:25:59.795] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:29:35.380] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:34:35.397] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:39:35.412] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:44:35.427] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:49:35.440] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:54:35.454] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:59:35.468] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:04:35.480] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:09:35.497] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:14:35.507] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:19:35.680] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:24:35.696] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:29:35.707] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:34:35.716] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 16:39:35.731] [sharedprocess] [info] Scanned user extensions: 3

@@ -1,0 +1,28 @@
+[2019-09-13 15:15:45.646] [sharedprocess] [info] main {"machineId":"eb9fe41af3504e5e2a2daa45cde570a02408e72863211097f5ffaa197d78d0c3"}
+[2019-09-13 15:15:46.251] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:46.913] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:15:49.065] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:49.077] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:15:51.374] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:51.404] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:51.425] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:15:51.653] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:53.974] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-09-13 15:15:53.975] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2019-09-13 15:15:53.989] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:53.993] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:55.011] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/1f2d0436-a1ec-46db-9fe9-d6c29bd1f5ab
+[2019-09-13 15:15:55.029] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide /tmp/c78e74bf-e161-419a-95ef-485963b16e69
+[2019-09-13 15:15:57.763] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-vscode.cpptools-0.25.1: ms-vscode.cpptools
+[2019-09-13 15:15:57.764] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode.cpptools-0.25.1
+[2019-09-13 15:15:57.769] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-09-13 15:15:57.946] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-09-13 15:15:57.971] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.platformio.platformio-ide-1.8.3: platformio.platformio-ide
+[2019-09-13 15:15:57.971] [sharedprocess] [info] Renamed to /root/.vscode/extensions/platformio.platformio-ide-1.8.3
+[2019-09-13 15:15:57.973] [sharedprocess] [info] Installation completed. platformio.platformio-ide
+[2019-09-13 15:15:58.131] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:15:58.203] [sharedprocess] [info] Scanned user extensions: 3
+[2019-09-13 15:15:58.320] [sharedprocess] [info] Extensions installed successfully: platformio.platformio-ide
+[2019-09-13 15:16:25.652] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-13 15:18:52.393] [sharedprocess] [info] Scanned system extensions: 72
+[2019-09-13 15:18:52.399] [sharedprocess] [info] Scanned user extensions: 3
